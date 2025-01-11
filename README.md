@@ -150,10 +150,6 @@ usermod -u <UID> www-data
 groupmod -g <GID> www-data
 ```
 
-## Support
-
-For issues or feature requests, please open an issue on the [GitHub repository](https://github.com/BaseMax/docker-php8.1/issues).
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
