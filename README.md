@@ -150,10 +150,6 @@ usermod -u <UID> www-data
 groupmod -g <GID> www-data
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Support
 
 For issues or feature requests, please open an issue on the [GitHub repository](https://github.com/BaseMax/docker-php8.1/issues).
@@ -165,3 +161,9 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## Disclaimer
 
 This image is provided as-is without warranty. Please test thoroughly before using in production environments.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+https://github.com/mlocati/docker-php-extension-installer
